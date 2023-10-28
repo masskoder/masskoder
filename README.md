@@ -1,4 +1,7 @@
-### Hey! 👋🏼 I'm Cletus
 
 
-I'm a software engineer and Digital builder that loves to create useful applications. I love to solve the problems that undermine our daily lives through a technological approach. I love making things that might possibly work using Javascript
+### Hello! 👋🏼 I'm Cletus
+
+I'm a dedicated Software Engineer and Digital Solutions Architect with a passion for developing impactful applications. My drive is to address real-world challenges by leveraging technology. With a strong proficiency in JavaScript and Python, I strive to design and implement solutions that are both innovative and functional.
+
+---
